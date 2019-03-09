@@ -1,0 +1,1 @@
+The first chunk of code is that part that is executed when the cursor leaves the username field of the input form. The second chunk is executed when the cursor leaves the email field and the last part of the code makes sure there is no error in the form and then submits the data to the server when the register button is clicked.
