@@ -1,0 +1,6 @@
+users table
+Fields	Type
+id	INT(11)
+username	VARCHAR(255)
+email	VARCHAR(255)
+password	VARCHAR(255)
