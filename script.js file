@@ -1,0 +1,2 @@
+In register.php, the last two lines specify the javascript files that are used in this application. First is JQuery which you can download from here, and there is also the script.js file where we will write our own JavaScript code. Place the jquery file in the root directory of your application and rename it to jquery-3.2.1.min.js.
+
